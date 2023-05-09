@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Rahul Kumar (@rk1754)
 - 👀 I’m interested in Software Development...
-- 
-- 
 - 📫 How to reach me r.s4khurmi@gmail.com
 
 <!---
